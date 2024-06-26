@@ -239,7 +239,7 @@ button.btn:active{
         border-radius: 0;
         height: 500px;
         margin-bottom: 10px;
-        margin-top: -10px;
+       
         border-bottom-left-radius: 30px;
         border-bottom-right-radius: 30px;
     }
